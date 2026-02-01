@@ -6,7 +6,7 @@ This week I worked on setting up a basic HTML website for my startup business fo
 
 ## Estimated Hours
 
-I spent about 8 hours of my own time this week on this subject.
+I spent about 8 hours of my own time this week on this subject. I spent 3 hours working on my practical in planning and learning how to start the website.
 
 ## Content Insights
 
