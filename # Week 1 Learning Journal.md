@@ -3,3 +3,9 @@
 ## Learning Activites & Resources
 
 This week I worked on setting up a basic HTML website relevant to the assignment one.
+
+## Estimated Hours
+
+## Content Insights
+
+## Career/Employability/Learning Insights
